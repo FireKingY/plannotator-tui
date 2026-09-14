@@ -12,7 +12,7 @@ cargo build --release
 
 | Where | Keys |
 |---|---|
-| anywhere | `Tab` cycle focus (tree · document · rail) · `E` send feedback (clipboard) · `t` show/hide tree · `r` reload · `q` quit |
+| anywhere | `Tab` cycle focus (tree · document · rail) · `E` send feedback (clipboard) · `C` clear all annotations on the current document (confirm) · `t` show/hide tree · `r` reload · `q` quit |
 | document | drag with the mouse, or `v` then `hjkl` / `w` `b` / `0` `$` to select; `Enter` confirms · `j`/`k` or click selects a block · `c` comments on the block · `x` clears the block's annotations |
 | selection toolbar | `a` 👍 looks good · `c` 💬 comment (opens a box at the selection) · `d` ✗ delete · `Esc` clears |
 | rail | `j`/`k` move · `e` / `Enter` edit body · `x` remove · click a bubble to focus it |
